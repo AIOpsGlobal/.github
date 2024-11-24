@@ -7,7 +7,7 @@ Connecting global GPU resources with users for scalable and affordable AI worklo
 ---
 
 ## **About Intelliphy**  
-Intelliphy is a decentralized platform that bridges the gap between GPU providers and users seeking computational resources. By leveraging idle GPU power worldwide, it enables efficient AI training, inference, and other compute-heavy tasks.
+Intelliphy is a decentralized platform that bridges the gap between GPU providers and users seeking computational resources. By leveraging idle GPU power worldwide, it enables efficient AI training, inference and other compute-heavy tasks.
 
 ### **Key Features**  
 - **Decentralized Compute:** Tap into a global network of GPU contributors.  
