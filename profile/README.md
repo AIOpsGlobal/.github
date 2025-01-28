@@ -23,6 +23,7 @@ With a mission to make AI accessible, Intelliphy provides affordable compute sol
 ### **Resources**
 
 - 🌐 **[Website](https://intelliphy.ai)** – Explore the full Intelliphy ecosystem and learn about its capabilities.
+- 🖥️ **[dApp](https://app.intelliphy.ai)** – Access, purchase and utilize advanced AI models. Rent GPU power and generate AI-driven text, audio and video. 
 - 🐦 **[Twitter](https://x.com/Intelliphy)** – Stay updated with the latest news, announcements and developments.
 - ✍️ **[Medium](https://intelliphy.medium.com)** – Read in-depth articles, insights and project updates.
 - 📘 **[Docs](https://docs.intelliphy.ai)** – Access detailed documentation for setup, usage and technical guidance.
