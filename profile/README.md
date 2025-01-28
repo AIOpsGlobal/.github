@@ -1,4 +1,4 @@
-![image](https://intelliphy.ai/github/cover.jpg)
+![image](https://intelliphy.ai/github/github.png)
 # **Intelliphy**
 
 **Decentralized AI Compute Platform**  
