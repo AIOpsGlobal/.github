@@ -1,4 +1,4 @@
-![image](https://intelliphy.ai/github/aiops.png)
+![image](https://aiops.global/github/aiops.png)
 # **AIOps**
 
 **Decentralized AI Compute Platform**  
@@ -16,7 +16,7 @@ AIOps is a decentralized platform that bridges the gap between GPU providers and
 - **Transparent Governance:** Token holders participate in platform decisions.
 
 ### **Why AIOps?**  
-With a mission to make AI accessible, Intelliphy provides affordable compute solutions while rewarding contributors, fostering a decentralized, community-driven ecosystem.
+With a mission to make AI accessible, AIOps provides affordable compute solutions while rewarding contributors, fostering a decentralized, community-driven ecosystem.
 
 ---
 
