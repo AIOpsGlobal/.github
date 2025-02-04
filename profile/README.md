@@ -27,7 +27,7 @@ With a mission to make AI accessible, AIOps provides affordable compute solution
 - 🐦 **[Twitter](https://x.com/AIOpsGlobal)** – Stay updated with the latest news, announcements and developments.
 - ✍️ **[Medium](https://aiopsglobal.medium.com)** – Read in-depth articles, insights and project updates.
 - 📘 **[Docs](https://docs.aiops.global)** – Access detailed documentation for setup, usage and technical guidance.
-- 📄 **[Litepaper](https://litepaper.aiops.global/LPv10)** – Dive into the vision, architecture and goals of the platform.
+- 📄 **[Litepaper](https://litepaper.aiops.global/v1)** – Dive into the vision, architecture and goals of the platform.
 - 📊 **[Tokenomics](https://docs.aiops.global/tokenomics)** – Learn about the $AIOPS token economic model and its role in the ecosystem.
 - 📧 **[Email](mailto:contact@aiops.global)** – Reach out to us for inquiries, collaborations or technical support.
 
