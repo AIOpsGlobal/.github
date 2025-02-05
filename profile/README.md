@@ -29,6 +29,7 @@ With a mission to make AI accessible, AIOps provides affordable compute solution
 - 📘 **[Docs](https://docs.aiops.global)** – Access detailed documentation for setup, usage and technical guidance.
 - 📄 **[Litepaper](https://litepaper.aiops.global/v1)** – Dive into the vision, architecture and goals of the platform.
 - 📊 **[Tokenomics](https://docs.aiops.global/tokenomics)** – Learn about the $AIOPS token economic model and its role in the ecosystem.
+- 🎨 **[Brand Kit](https://docs.aiops.global/brand-kit)** – Download official AIOps branding assets, including banners and token logos.
 - 📧 **[Email](mailto:contact@aiops.global)** – Reach out to us for inquiries, collaborations or technical support.
 
 ---
