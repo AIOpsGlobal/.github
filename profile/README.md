@@ -1,4 +1,4 @@
-![image](https://aiops.global/github/aiops.png)
+![image](https://aiops.global/github/cover.png)
 # **AIOps**
 
 **Decentralized AI Compute Platform**  
