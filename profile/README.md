@@ -23,7 +23,7 @@ With a mission to make AI accessible, AIOps provides affordable compute solution
 ### **Resources**
 
 - 🌐 **[Website](https://aiops.global)** – Explore the full AIOps ecosystem and learn about its capabilities.
-- 🖥️ **[dApp](https://app.aiops.global)** – Access, purchase and utilize advanced AI models. Rent GPU power and generate AI-driven text, audio and video. 
+- 🖥️ **[App](https://aiops.global)** – Access, purchase and utilize advanced AI models. Rent GPU power and generate AI-driven text, audio and video. 
 - 🐦 **[Twitter](https://x.com/AIOpsGlobal)** – Stay updated with the latest news, announcements and developments.
 - ✍️ **[Medium](https://aiopsglobal.medium.com)** – Read in-depth articles, insights and project updates.
 - 📘 **[Docs](https://docs.aiops.global)** – Access detailed documentation for setup, usage and technical guidance.
