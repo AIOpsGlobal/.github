@@ -1,5 +1,5 @@
 ![image](https://intelliphy.ai/github/cover.jpg)
-# **Intelliphy**
+# **AIOpsGlobal**
 
 **Decentralized AI Compute Platform**  
 Connecting global GPU resources with users for scalable and affordable AI workloads.
